@@ -12,7 +12,7 @@ public class Main {
     }
 
     private static void method2() {
-
+        System.out.println("Adios");
     }
 
     private static void method3() {
