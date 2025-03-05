@@ -16,7 +16,7 @@ public class Main {
     }
 
     private static void method3() {
-
+        System.out.println("Sims");
     }
 
     private static void method4() {
